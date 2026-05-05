@@ -38,7 +38,7 @@ function getFizzBuzz(num) {
   }
   return num;
 }
-console.log(getFizzBuzz());
+
 /**
  * Returns the factorial of the specified integer n.
  *
@@ -57,7 +57,7 @@ function getFactorial(n) {
   }
   return r;
 }
-console.log(getFactorial());
+
 /**
  * Returns the sum of integer numbers between n1 and n2 (inclusive).
  *
